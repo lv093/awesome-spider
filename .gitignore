@@ -1,0 +1,17 @@
+node_modules/*
+logs
+data/*
+vscode
+.DS_Store
+db.js
+config.js
+env.js
+.idea
+node/*
+venv
+*.pyc
+config.py
+*.bak
+env.py
+grab_tmp
+.vscode

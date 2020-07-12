@@ -1,0 +1,16 @@
+class Config:
+    RD_STOCK_DATA_OPEN = True
+    RD_STOCK_DATA_HOST = '127.0.0.1'
+    RD_STOCK_DATA_PORT = 6379
+    RD_STOCK_DATA_MAX_POOL = 100
+    RD_STOCK_DATA_PWD = ''
+    RD_STOCK_DATA_DB = '3'
+
+    # 数据库 Soccer-Source
+    DB_STOCK_DATA_HOST = '106.54.164.87'
+    DB_STOCK_DATA_PORT = '3306'
+    DB_STOCK_DATA_USER = 'root'
+    DB_STOCK_DATA_PWD = 'Root@123456'
+    DB_STOCK_DATA_DB = 'stock_data'
+
+    PROXY_HOST_PORT = 'http://106.75.79.132:31280'
